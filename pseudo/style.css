@@ -1,0 +1,26 @@
+h1:hover {
+    background-color: black;
+    color: yellow;
+    box-sizing: border-box;
+}
+
+.middle:focus {
+    background-color: black;
+    color: whitesmoke;
+    font-weight: 700;
+    text-align: center;
+}
+
+.middle::placeholder {
+    color: grey;
+    font-size: 14px;
+    text-align: center;
+}
+
+a:visited {
+    color: blue;
+}
+
+.input {
+    align-items: center;
+}

@@ -1,0 +1,32 @@
+body h1 {
+    background-color: brown;
+
+}
+
+span {
+    background-color: aquamarine;
+    height: 150px;
+    width: 200px;
+    margin: 0;
+}
+
+
+
+div {
+    background-color: lightcoral;
+    height: 250px;
+    width: 300px;
+    text-align: center;
+    padding: 30px;
+    box-sizing: border-box;
+    margin-top: 15px;
+  
+}
+
+h2 {
+    background-color: blueviolet;
+}
+
+p {
+    background-color: whitesmoke;
+}
